@@ -56,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dawncindrela/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/dawncindrela/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## String
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dawncindrela/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/dawncindrela/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Two Pointers
 |  |
 | ------- |
