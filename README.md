@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dawncindrela/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/dawncindrela/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/dawncindrela/LeetCode/tree/master/2155-find-missing-observations) |
+| [3429-special-array-i](https://github.com/dawncindrela/LeetCode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
