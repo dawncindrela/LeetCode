@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0717-1-bit-and-2-bit-characters](https://github.com/dawncindrela/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/dawncindrela/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/dawncindrela/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/dawncindrela/LeetCode/tree/master/1039-find-the-town-judge) |
