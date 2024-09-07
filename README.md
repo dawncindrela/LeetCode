@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/dawncindrela/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dawncindrela/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
@@ -106,4 +107,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dawncindrela/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/dawncindrela/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/dawncindrela/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/dawncindrela/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/dawncindrela/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
