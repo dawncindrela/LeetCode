@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3199-distribute-candies-among-children-i](https://github.com/dawncindrela/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
 | [3321-type-of-triangle](https://github.com/dawncindrela/LeetCode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/dawncindrela/LeetCode/tree/master/3371-harshad-number) |
+| [3567-convert-date-to-binary](https://github.com/dawncindrela/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Combinatorics
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dawncindrela/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1651-shuffle-string](https://github.com/dawncindrela/LeetCode/tree/master/1651-shuffle-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dawncindrela/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3567-convert-date-to-binary](https://github.com/dawncindrela/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Two Pointers
 |  |
 | ------- |
