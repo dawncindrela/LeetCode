@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/dawncindrela/LeetCode/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dawncindrela/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dawncindrela/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3468-find-the-encrypted-string](https://github.com/dawncindrela/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3567-convert-date-to-binary](https://github.com/dawncindrela/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Two Pointers
 |  |
