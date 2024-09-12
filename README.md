@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/dawncindrela/LeetCode/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/dawncindrela/LeetCode/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dawncindrela/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3463-alternating-groups-i](https://github.com/dawncindrela/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dawncindrela/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dawncindrela/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dawncindrela/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [3463-alternating-groups-i](https://github.com/dawncindrela/LeetCode/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->
