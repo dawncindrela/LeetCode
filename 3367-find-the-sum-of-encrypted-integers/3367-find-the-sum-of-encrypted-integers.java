@@ -6,18 +6,14 @@ class Solution
         int sum=0;
         for(int i=0;i<n;i++)
         {
-            int max=0;
-            int c=0;
-            int x=0;
+            int max=0,x=0,k=1;
             int num=nums[i];
             while(num>0)
             {
                 int d=num%10;
-                c++;
                 max=Math.max(d,max);
                 num/=10;
             }
-            int k=1;
             while(nums[i]>0)
             {
                 x+=max*k;
