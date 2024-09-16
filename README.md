@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/dawncindrela/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dawncindrela/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/dawncindrela/LeetCode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/dawncindrela/LeetCode/tree/master/0035-search-insert-position) |
+| [0539-minimum-time-difference](https://github.com/dawncindrela/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dawncindrela/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/dawncindrela/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/dawncindrela/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/dawncindrela/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/dawncindrela/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/dawncindrela/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/dawncindrela/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/dawncindrela/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dawncindrela/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dawncindrela/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1651-shuffle-string](https://github.com/dawncindrela/LeetCode/tree/master/1651-shuffle-string) |
