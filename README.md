@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dawncindrela/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dawncindrela/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dawncindrela/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1904-second-largest-digit-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dawncindrela/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dawncindrela/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dawncindrela/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1651-shuffle-string](https://github.com/dawncindrela/LeetCode/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dawncindrela/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1904-second-largest-digit-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dawncindrela/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3468-find-the-encrypted-string](https://github.com/dawncindrela/LeetCode/tree/master/3468-find-the-encrypted-string) |
