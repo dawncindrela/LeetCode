@@ -8,10 +8,8 @@ class Solution
         {
             for (int j = 0; j < n; j++) 
             {
-                // Check if element is on the main diagonal or anti-diagonal
                 if (i == j || i + j == n - 1) 
                 {
-                    // Diagonal elements should be non-zero
                     if (grid[i][j] == 0) 
                     {
                         return false;
@@ -19,7 +17,6 @@ class Solution
                 } 
                 else 
                 {
-                    // Non-diagonal elements should be zero
                     if (grid[i][j] != 0) 
                     {
                         return false;
@@ -27,6 +24,6 @@ class Solution
                 }
             }
         }
-        return true; // Return true if all conditions are satisfied
+        return true; 
     }
 }
