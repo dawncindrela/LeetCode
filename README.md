@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/dawncindrela/LeetCode/tree/master/2155-find-missing-observations) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/dawncindrela/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/dawncindrela/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/dawncindrela/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/dawncindrela/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dawncindrela/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2755-extra-characters-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1933-number-of-different-integers-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/dawncindrela/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dawncindrela/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/dawncindrela/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dawncindrela/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3468-find-the-encrypted-string](https://github.com/dawncindrela/LeetCode/tree/master/3468-find-the-encrypted-string) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dawncindrela/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/dawncindrela/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dawncindrela/LeetCode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/dawncindrela/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/dawncindrela/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/dawncindrela/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dawncindrela/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Game Theory
