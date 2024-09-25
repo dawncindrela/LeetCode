@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/dawncindrela/LeetCode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0054-spiral-matrix) |
 | [0139-word-break](https://github.com/dawncindrela/LeetCode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/dawncindrela/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dawncindrela/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dawncindrela/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/dawncindrela/LeetCode/tree/master/0179-largest-number) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/dawncindrela/LeetCode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/dawncindrela/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dawncindrela/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1086-divisor-game](https://github.com/dawncindrela/LeetCode/tree/master/1086-divisor-game) |
 | [2755-extra-characters-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/2755-extra-characters-in-a-string) |
