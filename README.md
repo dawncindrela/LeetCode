@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/dawncindrela/LeetCode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/dawncindrela/LeetCode/tree/master/1656-count-good-triplets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1769-get-maximum-in-generated-array](https://github.com/dawncindrela/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dawncindrela/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/dawncindrela/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/dawncindrela/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0898-transpose-matrix) |
+| [1769-get-maximum-in-generated-array](https://github.com/dawncindrela/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dawncindrela/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dawncindrela/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/dawncindrela/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
