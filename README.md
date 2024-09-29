@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/dawncindrela/LeetCode/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dawncindrela/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0492-construct-the-rectangle](https://github.com/dawncindrela/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0539-minimum-time-difference](https://github.com/dawncindrela/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/dawncindrela/LeetCode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/dawncindrela/LeetCode/tree/master/0066-plus-one) |
 | [0139-word-break](https://github.com/dawncindrela/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/dawncindrela/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dawncindrela/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
