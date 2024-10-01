@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/dawncindrela/LeetCode/tree/master/1656-count-good-triplets) |
 | [2037-count-square-sum-triples](https://github.com/dawncindrela/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [3199-distribute-candies-among-children-i](https://github.com/dawncindrela/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
+| [3221-find-the-peaks](https://github.com/dawncindrela/LeetCode/tree/master/3221-find-the-peaks) |
 ## Array
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/dawncindrela/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2881-split-strings-by-separator](https://github.com/dawncindrela/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3221-find-the-peaks](https://github.com/dawncindrela/LeetCode/tree/master/3221-find-the-peaks) |
 | [3321-type-of-triangle](https://github.com/dawncindrela/LeetCode/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dawncindrela/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/dawncindrela/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
