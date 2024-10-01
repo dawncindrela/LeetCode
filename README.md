@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dawncindrela/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/dawncindrela/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/dawncindrela/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dawncindrela/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1651-shuffle-string](https://github.com/dawncindrela/LeetCode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/dawncindrela/LeetCode/tree/master/1656-count-good-triplets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/dawncindrela/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/dawncindrela/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dawncindrela/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dawncindrela/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dawncindrela/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/dawncindrela/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dawncindrela/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dawncindrela/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dawncindrela/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Sliding Window
