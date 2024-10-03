@@ -7,13 +7,14 @@ class Solution
         Stack<Character> stk = new Stack<>();
         for(int i=0;i<n;i++)
         {
-            if(!stk.isEmpty() && stk.peek()==s.charAt(i))
+            char ch=s.charAt(i);
+            if(!stk.isEmpty() && stk.peek()==ch)
             {
                 stk.pop();
             }
             else
             {
-                stk.push(s.charAt(i));
+                stk.push(ch);
             }
         }
         while(!stk.isEmpty())
