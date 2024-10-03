@@ -2,7 +2,6 @@ class Solution
 {
     public String clearDigits(String s) 
     {
-        String str="";
         Stack<Character> st = new Stack<>();
         for(char ch : s.toCharArray())
         {
@@ -18,6 +17,7 @@ class Solution
                 st.push(ch);
             }
         }
+        String str="";
         while(!st.isEmpty())
         {
             str=st.pop()+str;
