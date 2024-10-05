@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dawncindrela/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0432-all-oone-data-structure](https://github.com/dawncindrela/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/dawncindrela/LeetCode/tree/master/0567-permutation-in-string) |
 | [1039-find-the-town-judge](https://github.com/dawncindrela/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/dawncindrela/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/dawncindrela/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/dawncindrela/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/dawncindrela/LeetCode/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/dawncindrela/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/dawncindrela/LeetCode/tree/master/0567-permutation-in-string) |
 | [0953-reverse-only-letters](https://github.com/dawncindrela/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dawncindrela/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/dawncindrela/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dawncindrela/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/dawncindrela/LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/dawncindrela/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0953-reverse-only-letters](https://github.com/dawncindrela/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1009-pancake-sorting](https://github.com/dawncindrela/LeetCode/tree/master/1009-pancake-sorting) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/dawncindrela/LeetCode/tree/master/0567-permutation-in-string) |
 | [3463-alternating-groups-i](https://github.com/dawncindrela/LeetCode/tree/master/3463-alternating-groups-i) |
 ## Brainteaser
 |  |
