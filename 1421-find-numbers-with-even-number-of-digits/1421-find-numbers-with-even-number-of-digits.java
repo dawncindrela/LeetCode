@@ -9,7 +9,6 @@ class Solution
             int even =0;
             while(nums[i]>0)
             {
-               int d=nums[i]%10;
                even++;
                nums[i]/=10; 
             }
