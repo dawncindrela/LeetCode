@@ -8,12 +8,12 @@ class Solution
         {
             if((nums[i]+1)%3==0)
             {
-                nums[i]+=1;
+                nums[i]++;
                 op++;
             }
             else if((nums[i]-1)%3==0)
             {
-                nums[i]-=1;
+                nums[i]--;
                 op++;
             }
             if(nums[i]%3==0)
