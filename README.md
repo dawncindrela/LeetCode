@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dawncindrela/LeetCode/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/dawncindrela/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/dawncindrela/LeetCode/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/dawncindrela/LeetCode/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/dawncindrela/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dawncindrela/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/dawncindrela/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/dawncindrela/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/dawncindrela/LeetCode/tree/master/0812-rotate-string) |
 | [1764-maximum-repeating-substring](https://github.com/dawncindrela/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/dawncindrela/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Function
