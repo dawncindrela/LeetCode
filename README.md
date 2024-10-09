@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dawncindrela/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/dawncindrela/LeetCode/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/dawncindrela/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/dawncindrela/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dawncindrela/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/dawncindrela/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dawncindrela/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0432-all-oone-data-structure](https://github.com/dawncindrela/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0496-next-greater-element-i](https://github.com/dawncindrela/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/dawncindrela/LeetCode/tree/master/0567-permutation-in-string) |
 | [1039-find-the-town-judge](https://github.com/dawncindrela/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/dawncindrela/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/dawncindrela/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dawncindrela/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dawncindrela/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dawncindrela/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/dawncindrela/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dawncindrela/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
 |  |
