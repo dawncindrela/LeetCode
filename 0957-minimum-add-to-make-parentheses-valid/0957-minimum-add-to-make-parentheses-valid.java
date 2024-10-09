@@ -10,9 +10,9 @@ class Solution
             else
             {
                 if(open>0)
-                open--;
+                    open--;
                 else
-                mismatch++;
+                    mismatch++;
             }
         } 
         return open+mismatch;   
