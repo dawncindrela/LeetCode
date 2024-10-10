@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/dawncindrela/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/dawncindrela/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/dawncindrela/LeetCode/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/dawncindrela/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dawncindrela/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/dawncindrela/LeetCode/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/dawncindrela/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -486,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-calculate-special-bonus](https://github.com/dawncindrela/LeetCode/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/dawncindrela/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 | [2110-employees-with-missing-information](https://github.com/dawncindrela/LeetCode/tree/master/2110-employees-with-missing-information) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/dawncindrela/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
