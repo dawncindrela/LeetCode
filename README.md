@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/dawncindrela/LeetCode/tree/master/2825-minimize-string-length) |
 | [2881-split-strings-by-separator](https://github.com/dawncindrela/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dawncindrela/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3195-separate-black-and-white-balls](https://github.com/dawncindrela/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/dawncindrela/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dawncindrela/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3447-clear-digits](https://github.com/dawncindrela/LeetCode/tree/master/3447-clear-digits) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dawncindrela/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dawncindrela/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dawncindrela/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3195-separate-black-and-white-balls](https://github.com/dawncindrela/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dawncindrela/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Matrix
 |  |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dawncindrela/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2756-buy-two-chocolates](https://github.com/dawncindrela/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dawncindrela/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3195-separate-black-and-white-balls](https://github.com/dawncindrela/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
