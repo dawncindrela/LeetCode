@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/dawncindrela/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/dawncindrela/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2881-split-strings-by-separator](https://github.com/dawncindrela/LeetCode/tree/master/2881-split-strings-by-separator) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawncindrela/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dawncindrela/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dawncindrela/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dawncindrela/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2756-buy-two-chocolates](https://github.com/dawncindrela/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/dawncindrela/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawncindrela/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/dawncindrela/LeetCode/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dawncindrela/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dawncindrela/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dawncindrela/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawncindrela/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dawncindrela/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dawncindrela/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dawncindrela/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawncindrela/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dawncindrela/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3195-separate-black-and-white-balls](https://github.com/dawncindrela/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dawncindrela/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
