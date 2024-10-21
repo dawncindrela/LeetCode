@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0139-word-break](https://github.com/dawncindrela/LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/dawncindrela/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/dawncindrela/LeetCode/tree/master/0214-shortest-palindrome) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/dawncindrela/LeetCode/tree/master/0016-3sum-closest) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dawncindrela/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/dawncindrela/LeetCode/tree/master/0567-permutation-in-string) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/dawncindrela/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/dawncindrela/LeetCode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/dawncindrela/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
