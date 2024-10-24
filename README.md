@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dawncindrela/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/dawncindrela/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/dawncindrela/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/dawncindrela/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/dawncindrela/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/dawncindrela/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dawncindrela/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/dawncindrela/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/dawncindrela/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/dawncindrela/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/dawncindrela/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2401-count-asterisks](https://github.com/dawncindrela/LeetCode/tree/master/2401-count-asterisks) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dawncindrela/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2547-odd-string-difference](https://github.com/dawncindrela/LeetCode/tree/master/2547-odd-string-difference) |
