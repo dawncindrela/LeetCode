@@ -15,11 +15,11 @@ class Solution
                 stk.push(s.charAt(i));
             }
         }
-        String ans="";
+        StringBuilder sb = new StringBuilder();
         while(!stk.isEmpty())
         {
-            ans=stk.pop()+ans;
+            sb.append(stk.pop());
         }
-        return ans;
+        return sb.reverse().toString();
     }
 }
