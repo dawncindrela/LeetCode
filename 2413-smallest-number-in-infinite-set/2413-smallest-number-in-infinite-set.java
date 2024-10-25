@@ -1,22 +1,25 @@
 class SmallestInfiniteSet {
-
     int arr[];
-    int ind;
-
+    int i;
     public SmallestInfiniteSet() {
-        arr = new int[1001];
-        ind = 1;
+        arr=new int[1001];
+        i=1;
     }
     
     public int popSmallest() {
-        while(arr[ind] == 1) ind++;
-        arr[ind] = 1;
-        return ind;
+        while(arr[i]==1)
+        {
+            i++;
+        }
+        arr[i]=1;
+        return i;
     }
     
     public void addBack(int num) {
-        if(num < ind) ind = num;
-        arr[num] = 0;
+        if(num<i)
+        i=num;
+            
+        arr[num]=0;
     }
 }
 
