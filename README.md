@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dawncindrela/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dawncindrela/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2636-maximum-subsequence-score](https://github.com/dawncindrela/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2755-extra-characters-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2756-buy-two-chocolates](https://github.com/dawncindrela/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/dawncindrela/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/dawncindrela/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dawncindrela/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dawncindrela/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2636-maximum-subsequence-score](https://github.com/dawncindrela/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dawncindrela/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2756-buy-two-chocolates](https://github.com/dawncindrela/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/dawncindrela/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/dawncindrela/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dawncindrela/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dawncindrela/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2636-maximum-subsequence-score](https://github.com/dawncindrela/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Number Theory
 |  |
 | ------- |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dawncindrela/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dawncindrela/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dawncindrela/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2636-maximum-subsequence-score](https://github.com/dawncindrela/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2756-buy-two-chocolates](https://github.com/dawncindrela/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dawncindrela/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/dawncindrela/LeetCode/tree/master/3195-separate-black-and-white-balls) |
