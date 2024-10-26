@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/dawncindrela/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dawncindrela/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dawncindrela/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0806-domino-and-tromino-tiling](https://github.com/dawncindrela/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1063-best-sightseeing-pair](https://github.com/dawncindrela/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/dawncindrela/LeetCode/tree/master/1086-divisor-game) |
 | [1764-maximum-repeating-substring](https://github.com/dawncindrela/LeetCode/tree/master/1764-maximum-repeating-substring) |
