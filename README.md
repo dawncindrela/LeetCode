@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dawncindrela/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/dawncindrela/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/dawncindrela/LeetCode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/dawncindrela/LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/dawncindrela/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/dawncindrela/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/dawncindrela/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/dawncindrela/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dawncindrela/LeetCode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/dawncindrela/LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/dawncindrela/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0611-valid-triangle-number](https://github.com/dawncindrela/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/dawncindrela/LeetCode/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/dawncindrela/LeetCode/tree/master/1137-height-checker) |
 ## Database
 |  |
