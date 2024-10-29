@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/dawncindrela/LeetCode/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/dawncindrela/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/dawncindrela/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/dawncindrela/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/dawncindrela/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/dawncindrela/LeetCode/tree/master/0066-plus-one) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/dawncindrela/LeetCode/tree/master/0051-n-queens) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/dawncindrela/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dawncindrela/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bucket Sort
