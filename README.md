@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/dawncindrela/LeetCode/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/dawncindrela/LeetCode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/dawncindrela/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/dawncindrela/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/dawncindrela/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/dawncindrela/LeetCode/tree/master/0053-maximum-subarray) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/dawncindrela/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/dawncindrela/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/dawncindrela/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/dawncindrela/LeetCode/tree/master/0139-word-break) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/dawncindrela/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dawncindrela/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/dawncindrela/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/dawncindrela/LeetCode/tree/master/0051-n-queens) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/dawncindrela/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dawncindrela/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
