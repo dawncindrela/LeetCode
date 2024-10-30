@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/dawncindrela/LeetCode/tree/master/1656-count-good-triplets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/dawncindrela/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dawncindrela/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1769-get-maximum-in-generated-array](https://github.com/dawncindrela/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dawncindrela/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/dawncindrela/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dawncindrela/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dawncindrela/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dawncindrela/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dawncindrela/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawncindrela/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/dawncindrela/LeetCode/tree/master/1009-pancake-sorting) |
 | [1304-longest-happy-string](https://github.com/dawncindrela/LeetCode/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/dawncindrela/LeetCode/tree/master/1448-maximum-69-number) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dawncindrela/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2032-largest-odd-number-in-string](https://github.com/dawncindrela/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dawncindrela/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dawncindrela/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/dawncindrela/LeetCode/tree/master/1086-divisor-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dawncindrela/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1764-maximum-repeating-substring](https://github.com/dawncindrela/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dawncindrela/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dawncindrela/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
