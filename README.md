@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dawncindrela/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/dawncindrela/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2547-odd-string-difference](https://github.com/dawncindrela/LeetCode/tree/master/2547-odd-string-difference) |
+| [2554-minimum-total-distance-traveled](https://github.com/dawncindrela/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dawncindrela/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/dawncindrela/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dawncindrela/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2554-minimum-total-distance-traveled](https://github.com/dawncindrela/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dawncindrela/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/dawncindrela/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dawncindrela/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1764-maximum-repeating-substring](https://github.com/dawncindrela/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dawncindrela/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/dawncindrela/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dawncindrela/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
