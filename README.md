@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/dawncindrela/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/dawncindrela/LeetCode/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dawncindrela/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0313-super-ugly-number](https://github.com/dawncindrela/LeetCode/tree/master/0313-super-ugly-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dawncindrela/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0492-construct-the-rectangle](https://github.com/dawncindrela/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0539-minimum-time-difference](https://github.com/dawncindrela/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/dawncindrela/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dawncindrela/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/dawncindrela/LeetCode/tree/master/0274-h-index) |
+| [0313-super-ugly-number](https://github.com/dawncindrela/LeetCode/tree/master/0313-super-ugly-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0403-frog-jump](https://github.com/dawncindrela/LeetCode/tree/master/0403-frog-jump) |
 | [0475-heaters](https://github.com/dawncindrela/LeetCode/tree/master/0475-heaters) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dawncindrela/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/dawncindrela/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dawncindrela/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0313-super-ugly-number](https://github.com/dawncindrela/LeetCode/tree/master/0313-super-ugly-number) |
 | [0403-frog-jump](https://github.com/dawncindrela/LeetCode/tree/master/0403-frog-jump) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dawncindrela/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0806-domino-and-tromino-tiling](https://github.com/dawncindrela/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
