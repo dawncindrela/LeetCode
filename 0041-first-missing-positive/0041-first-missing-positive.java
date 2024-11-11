@@ -3,18 +3,18 @@ class Solution
     public int firstMissingPositive(int[] nums) 
     {
         Arrays.sort(nums);
-        int small=1;
-        for(int n : nums)
+        int target = 1;
+        for (int n : nums) 
         {
-            if(n==small)
+            if (n == target) 
             {
-                small++;
-            }
-            else if(n>small)
+                target++;
+            } 
+            else if (n > target) 
             {
-                return small;
+                return target;
             }
-        } 
-        return small;   
+        }
+        return target;        
     }
 }
