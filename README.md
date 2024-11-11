@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/dawncindrela/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/dawncindrela/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2630-alternating-digit-sum](https://github.com/dawncindrela/LeetCode/tree/master/2630-alternating-digit-sum) |
+| [2716-prime-subtraction-operation](https://github.com/dawncindrela/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2752-sum-multiples](https://github.com/dawncindrela/LeetCode/tree/master/2752-sum-multiples) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dawncindrela/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dawncindrela/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dawncindrela/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/dawncindrela/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [2716-prime-subtraction-operation](https://github.com/dawncindrela/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2756-buy-two-chocolates](https://github.com/dawncindrela/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dawncindrela/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dawncindrela/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dawncindrela/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/dawncindrela/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawncindrela/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/dawncindrela/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2716-prime-subtraction-operation](https://github.com/dawncindrela/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dawncindrela/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dawncindrela/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dawncindrela/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/dawncindrela/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [2716-prime-subtraction-operation](https://github.com/dawncindrela/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2756-buy-two-chocolates](https://github.com/dawncindrela/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dawncindrela/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/dawncindrela/LeetCode/tree/master/3195-separate-black-and-white-balls) |
