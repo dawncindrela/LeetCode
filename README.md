@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/dawncindrela/LeetCode/tree/master/3451-string-compression-iii) |
 | [3468-find-the-encrypted-string](https://github.com/dawncindrela/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3567-convert-date-to-binary](https://github.com/dawncindrela/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3636-check-balanced-string](https://github.com/dawncindrela/LeetCode/tree/master/3636-check-balanced-string) |
 ## Two Pointers
 |  |
 | ------- |
