@@ -2,11 +2,11 @@ class Solution
 {
     public int smallestNumber(int n, int t) 
     {
-        int num = n;
+        //int num = n;
         while(true)
         {
             int p=1;
-            int temp = num;
+            int temp = n;
             while(temp>0)
             {
                 p*=(temp%10);
@@ -14,9 +14,9 @@ class Solution
             }
             if(p%t == 0)
             {
-                return num;
+                return n;
             }
-            num++;
+            n++;
         }
     }
 }
