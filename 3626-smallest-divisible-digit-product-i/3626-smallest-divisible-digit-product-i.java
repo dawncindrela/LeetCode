@@ -2,6 +2,7 @@ class Solution
 {
     public int smallestNumber(int n, int t) 
     {
+        //int num = n;
         while(true)
         {
             int p=1;
