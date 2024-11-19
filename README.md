@@ -786,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/dawncindrela/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/dawncindrela/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/dawncindrela/LeetCode/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/dawncindrela/LeetCode/tree/master/0077-combinations) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/dawncindrela/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dawncindrela/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bucket Sort
