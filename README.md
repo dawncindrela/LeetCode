@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/dawncindrela/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/dawncindrela/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/dawncindrela/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/dawncindrela/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dawncindrela/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/dawncindrela/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/dawncindrela/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dawncindrela/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/dawncindrela/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/dawncindrela/LeetCode/tree/master/2155-find-missing-observations) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/dawncindrela/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/dawncindrela/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dawncindrela/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3311-ant-on-the-boundary](https://github.com/dawncindrela/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dawncindrela/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/dawncindrela/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/dawncindrela/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/dawncindrela/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/dawncindrela/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/dawncindrela/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dawncindrela/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
