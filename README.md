@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/dawncindrela/LeetCode/tree/master/1039-find-the-town-judge) |
+| [3189-find-champion-ii](https://github.com/dawncindrela/LeetCode/tree/master/3189-find-champion-ii) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/dawncindrela/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Prefix Sum
 |  |
