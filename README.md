@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dawncindrela/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/dawncindrela/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dawncindrela/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dawncindrela/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/dawncindrela/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/dawncindrela/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dawncindrela/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/dawncindrela/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dawncindrela/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/dawncindrela/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2825-minimize-string-length](https://github.com/dawncindrela/LeetCode/tree/master/2825-minimize-string-length) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dawncindrela/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/dawncindrela/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dawncindrela/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dawncindrela/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dawncindrela/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2756-buy-two-chocolates](https://github.com/dawncindrela/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/dawncindrela/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dawncindrela/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dawncindrela/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dawncindrela/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/dawncindrela/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawncindrela/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -717,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dawncindrela/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dawncindrela/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/dawncindrela/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dawncindrela/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/dawncindrela/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2756-buy-two-chocolates](https://github.com/dawncindrela/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dawncindrela/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
