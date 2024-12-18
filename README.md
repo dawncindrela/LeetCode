@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/dawncindrela/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dawncindrela/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/dawncindrela/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/dawncindrela/LeetCode/tree/master/0598-range-addition-ii) |
 | [0611-valid-triangle-number](https://github.com/dawncindrela/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dawncindrela/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/dawncindrela/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dawncindrela/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/dawncindrela/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/dawncindrela/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dawncindrela/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0900-reordered-power-of-2](https://github.com/dawncindrela/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1039-find-the-town-judge](https://github.com/dawncindrela/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/dawncindrela/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0475-heaters](https://github.com/dawncindrela/LeetCode/tree/master/0475-heaters) |
 | [0539-minimum-time-difference](https://github.com/dawncindrela/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/dawncindrela/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/dawncindrela/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dawncindrela/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/dawncindrela/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/dawncindrela/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/dawncindrela/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/dawncindrela/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/dawncindrela/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/dawncindrela/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/dawncindrela/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -727,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/dawncindrela/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/dawncindrela/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dawncindrela/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dawncindrela/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/dawncindrela/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
