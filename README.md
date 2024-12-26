@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0403-frog-jump](https://github.com/dawncindrela/LeetCode/tree/master/0403-frog-jump) |
 | [0475-heaters](https://github.com/dawncindrela/LeetCode/tree/master/0475-heaters) |
+| [0494-target-sum](https://github.com/dawncindrela/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/dawncindrela/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dawncindrela/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/dawncindrela/LeetCode/tree/master/0525-contiguous-array) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/dawncindrela/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0313-super-ugly-number](https://github.com/dawncindrela/LeetCode/tree/master/0313-super-ugly-number) |
 | [0403-frog-jump](https://github.com/dawncindrela/LeetCode/tree/master/0403-frog-jump) |
+| [0494-target-sum](https://github.com/dawncindrela/LeetCode/tree/master/0494-target-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dawncindrela/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0806-domino-and-tromino-tiling](https://github.com/dawncindrela/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1063-best-sightseeing-pair](https://github.com/dawncindrela/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/dawncindrela/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/dawncindrela/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/dawncindrela/LeetCode/tree/master/0077-combinations) |
+| [0494-target-sum](https://github.com/dawncindrela/LeetCode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/dawncindrela/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dawncindrela/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bucket Sort
