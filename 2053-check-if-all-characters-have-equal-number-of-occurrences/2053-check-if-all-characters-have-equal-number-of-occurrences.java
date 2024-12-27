@@ -8,13 +8,6 @@ class Solution
             map.put(ch,map.getOrDefault(ch,0)+1);
         }
         HashSet<Integer> set = new HashSet<>(map.values());
-        if(set.size() == 1)
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
+        return (set.size() == 1);
     }
 }
