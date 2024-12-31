@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/dawncindrela/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/dawncindrela/LeetCode/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/dawncindrela/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1025-minimum-cost-for-tickets](https://github.com/dawncindrela/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1031-add-to-array-form-of-integer](https://github.com/dawncindrela/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1039-find-the-town-judge](https://github.com/dawncindrela/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1063-best-sightseeing-pair](https://github.com/dawncindrela/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -858,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dawncindrela/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0806-domino-and-tromino-tiling](https://github.com/dawncindrela/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [1025-minimum-cost-for-tickets](https://github.com/dawncindrela/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/dawncindrela/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/dawncindrela/LeetCode/tree/master/1086-divisor-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dawncindrela/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
