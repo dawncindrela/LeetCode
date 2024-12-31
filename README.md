@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/dawncindrela/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dawncindrela/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/dawncindrela/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/dawncindrela/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/dawncindrela/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/dawncindrela/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2630-alternating-digit-sum](https://github.com/dawncindrela/LeetCode/tree/master/2630-alternating-digit-sum) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/dawncindrela/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dawncindrela/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dawncindrela/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2571-find-the-pivot-integer](https://github.com/dawncindrela/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/dawncindrela/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3311-ant-on-the-boundary](https://github.com/dawncindrela/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3427-special-array-ii](https://github.com/dawncindrela/LeetCode/tree/master/3427-special-array-ii) |
