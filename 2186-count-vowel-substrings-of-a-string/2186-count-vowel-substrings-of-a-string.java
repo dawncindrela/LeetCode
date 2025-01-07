@@ -5,13 +5,14 @@ class Solution
         int n = word.length();
         int count = 0;
         String vowels = "aeiou";
+        Set<Character> vowelSet = new HashSet<>();
         for (int i = 0; i < n; i++) 
         {
             if (!vowels.contains(String.valueOf(word.charAt(i)))) 
             {
                 continue; 
             }
-            Set<Character> vowelSet = new HashSet<>();
+            vowelSet.clear();
             for (int j = i; j < n; j++) {
                 char ch = word.charAt(j);
                 if (!vowels.contains(String.valueOf(ch))) 
