@@ -13,8 +13,7 @@ class Solution
                 continue; 
             }
             vowelSet.clear();
-            for (int j = i; j < n; j++) 
-            {
+            for (int j = i; j < n; j++) {
                 char ch = word.charAt(j);
                 if (!vowels.contains(String.valueOf(ch))) 
                 {
