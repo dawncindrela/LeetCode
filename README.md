@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/dawncindrela/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dawncindrela/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2413-smallest-number-in-infinite-set](https://github.com/dawncindrela/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2427-first-letter-to-appear-twice](https://github.com/dawncindrela/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2547-odd-string-difference](https://github.com/dawncindrela/LeetCode/tree/master/2547-odd-string-difference) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dawncindrela/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dawncindrela/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/dawncindrela/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2401-count-asterisks](https://github.com/dawncindrela/LeetCode/tree/master/2401-count-asterisks) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/dawncindrela/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/dawncindrela/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2465-shifting-letters-ii](https://github.com/dawncindrela/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dawncindrela/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2547-odd-string-difference](https://github.com/dawncindrela/LeetCode/tree/master/2547-odd-string-difference) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dawncindrela/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dawncindrela/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dawncindrela/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2427-first-letter-to-appear-twice](https://github.com/dawncindrela/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/dawncindrela/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dawncindrela/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/dawncindrela/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -813,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/dawncindrela/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2300-construct-string-with-repeat-limit](https://github.com/dawncindrela/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dawncindrela/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2427-first-letter-to-appear-twice](https://github.com/dawncindrela/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dawncindrela/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dawncindrela/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sliding Window
