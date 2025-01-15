@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/dawncindrela/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2122-count-special-quadruplets](https://github.com/dawncindrela/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dawncindrela/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2442-number-of-arithmetic-triplets](https://github.com/dawncindrela/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3199-distribute-candies-among-children-i](https://github.com/dawncindrela/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
 | [3221-find-the-peaks](https://github.com/dawncindrela/LeetCode/tree/master/3221-find-the-peaks) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/dawncindrela/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dawncindrela/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/dawncindrela/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/dawncindrela/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2442-number-of-arithmetic-triplets](https://github.com/dawncindrela/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2465-shifting-letters-ii](https://github.com/dawncindrela/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dawncindrela/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dawncindrela/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dawncindrela/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2413-smallest-number-in-infinite-set](https://github.com/dawncindrela/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2427-first-letter-to-appear-twice](https://github.com/dawncindrela/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2442-number-of-arithmetic-triplets](https://github.com/dawncindrela/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2547-odd-string-difference](https://github.com/dawncindrela/LeetCode/tree/master/2547-odd-string-difference) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dawncindrela/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dawncindrela/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dawncindrela/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/dawncindrela/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/dawncindrela/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2442-number-of-arithmetic-triplets](https://github.com/dawncindrela/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/dawncindrela/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dawncindrela/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dawncindrela/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
