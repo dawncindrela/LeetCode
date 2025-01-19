@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dawncindrela/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/dawncindrela/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/dawncindrela/LeetCode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dawncindrela/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/dawncindrela/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/dawncindrela/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/dawncindrela/LeetCode/tree/master/0068-text-justification) |
 | [0566-reshape-the-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0898-transpose-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/dawncindrela/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/dawncindrela/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/dawncindrela/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/dawncindrela/LeetCode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/dawncindrela/LeetCode/tree/master/0068-text-justification) |
 | [0139-word-break](https://github.com/dawncindrela/LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/dawncindrela/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/dawncindrela/LeetCode/tree/master/0214-shortest-palindrome) |
