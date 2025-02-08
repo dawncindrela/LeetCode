@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/dawncindrela/LeetCode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/dawncindrela/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dawncindrela/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/dawncindrela/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/dawncindrela/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dawncindrela/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/dawncindrela/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0787-sliding-puzzle](https://github.com/dawncindrela/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0898-transpose-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0898-transpose-matrix) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/dawncindrela/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dawncindrela/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/dawncindrela/LeetCode/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/dawncindrela/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/dawncindrela/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -994,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/dawncindrela/LeetCode/tree/master/0313-super-ugly-number) |
 | [0403-frog-jump](https://github.com/dawncindrela/LeetCode/tree/master/0403-frog-jump) |
 | [0494-target-sum](https://github.com/dawncindrela/LeetCode/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dawncindrela/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0806-domino-and-tromino-tiling](https://github.com/dawncindrela/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
