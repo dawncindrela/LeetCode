@@ -6,10 +6,8 @@ class Solution
         int sum = 0;
         for(int i=0;i<arr.length;i++)
         {
-            if(arr[i]<=n) 
-                sum += arr[i]*arr[i];
-            else if(arr[i]>n) 
-                break;
+            if(arr[i]<=n) sum += arr[i]*arr[i];
+            else if(arr[i]>n) break;
         }
         return sum;
     }
