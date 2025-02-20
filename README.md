@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dawncindrela/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2089-maximum-matrix-sum](https://github.com/dawncindrela/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/dawncindrela/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2107-find-unique-binary-string](https://github.com/dawncindrela/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2122-count-special-quadruplets](https://github.com/dawncindrela/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/dawncindrela/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/dawncindrela/LeetCode/tree/master/2145-grid-game) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dawncindrela/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dawncindrela/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dawncindrela/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/dawncindrela/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2122-count-special-quadruplets](https://github.com/dawncindrela/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/dawncindrela/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/dawncindrela/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dawncindrela/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/dawncindrela/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dawncindrela/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/dawncindrela/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/dawncindrela/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/dawncindrela/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/dawncindrela/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -1174,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dawncindrela/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/dawncindrela/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dawncindrela/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/dawncindrela/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dawncindrela/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dawncindrela/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dawncindrela/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
