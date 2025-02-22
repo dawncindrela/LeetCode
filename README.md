@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dawncindrela/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/dawncindrela/LeetCode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/dawncindrela/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/dawncindrela/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dawncindrela/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/dawncindrela/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/dawncindrela/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dawncindrela/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dawncindrela/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/dawncindrela/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/dawncindrela/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dawncindrela/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/dawncindrela/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/dawncindrela/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/dawncindrela/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/dawncindrela/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/dawncindrela/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/dawncindrela/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dawncindrela/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dawncindrela/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/dawncindrela/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -859,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dawncindrela/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dawncindrela/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/dawncindrela/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/dawncindrela/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dawncindrela/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/dawncindrela/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/dawncindrela/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
