@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dawncindrela/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dawncindrela/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/dawncindrela/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/dawncindrela/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/dawncindrela/LeetCode/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/dawncindrela/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/dawncindrela/LeetCode/tree/master/3371-harshad-number) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dawncindrela/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3221-find-the-peaks](https://github.com/dawncindrela/LeetCode/tree/master/3221-find-the-peaks) |
+| [3227-find-missing-and-repeated-values](https://github.com/dawncindrela/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/dawncindrela/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/dawncindrela/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3311-ant-on-the-boundary](https://github.com/dawncindrela/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2825-minimize-string-length](https://github.com/dawncindrela/LeetCode/tree/master/2825-minimize-string-length) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/dawncindrela/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dawncindrela/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dawncindrela/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dawncindrela/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/dawncindrela/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dawncindrela/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dawncindrela/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/dawncindrela/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
