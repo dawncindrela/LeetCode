@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/dawncindrela/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/dawncindrela/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/dawncindrela/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2610-closest-prime-numbers-in-range](https://github.com/dawncindrela/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2619-categorize-box-according-to-criteria](https://github.com/dawncindrela/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2630-alternating-digit-sum](https://github.com/dawncindrela/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dawncindrela/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -933,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/dawncindrela/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2610-closest-prime-numbers-in-range](https://github.com/dawncindrela/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/dawncindrela/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dawncindrela/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
