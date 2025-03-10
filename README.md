@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dawncindrela/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/dawncindrela/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dawncindrela/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dawncindrela/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dawncindrela/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dawncindrela/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Graph
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/dawncindrela/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3468-find-the-encrypted-string](https://github.com/dawncindrela/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3567-convert-date-to-binary](https://github.com/dawncindrela/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dawncindrela/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3636-check-balanced-string](https://github.com/dawncindrela/LeetCode/tree/master/3636-check-balanced-string) |
 ## Two Pointers
 |  |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3463-alternating-groups-i](https://github.com/dawncindrela/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/dawncindrela/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dawncindrela/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dawncindrela/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dawncindrela/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Brainteaser
 |  |
