@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/dawncindrela/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/dawncindrela/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dawncindrela/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0768-partition-labels](https://github.com/dawncindrela/LeetCode/tree/master/0768-partition-labels) |
 | [0889-buddy-strings](https://github.com/dawncindrela/LeetCode/tree/master/0889-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/dawncindrela/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dawncindrela/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/dawncindrela/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/dawncindrela/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/dawncindrela/LeetCode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/dawncindrela/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/dawncindrela/LeetCode/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/dawncindrela/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0889-buddy-strings](https://github.com/dawncindrela/LeetCode/tree/master/0889-buddy-strings) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/dawncindrela/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/dawncindrela/LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/dawncindrela/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0768-partition-labels](https://github.com/dawncindrela/LeetCode/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/dawncindrela/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/dawncindrela/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/dawncindrela/LeetCode/tree/master/0979-di-string-match) |
@@ -1085,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/dawncindrela/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/dawncindrela/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/dawncindrela/LeetCode/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/dawncindrela/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/dawncindrela/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dawncindrela/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/dawncindrela/LeetCode/tree/master/0979-di-string-match) |
