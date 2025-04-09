@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dawncindrela/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dawncindrela/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/dawncindrela/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dawncindrela/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3632-button-with-longest-push-time](https://github.com/dawncindrela/LeetCode/tree/master/3632-button-with-longest-push-time) |
 | [3643-zero-array-transformation-ii](https://github.com/dawncindrela/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/dawncindrela/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dawncindrela/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dawncindrela/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dawncindrela/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dawncindrela/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Graph
 |  |
 | ------- |
