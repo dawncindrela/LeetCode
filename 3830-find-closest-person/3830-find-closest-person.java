@@ -1,0 +1,18 @@
+class Solution 
+{
+    public int findClosest(int x, int y, int z) 
+    {
+        if(x==y || (Math.abs(x-z)==Math.abs(y-z)))
+        {
+            return 0;
+        }
+        if(Math.abs(x-z)<Math.abs(y-z))
+        {
+            return 1;
+        }
+        else
+        {
+            return 2;
+        }
+    }
+}
