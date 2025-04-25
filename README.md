@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/dawncindrela/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dawncindrela/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dawncindrela/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2915-count-of-interesting-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawncindrela/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dawncindrela/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dawncindrela/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/dawncindrela/LeetCode/tree/master/2825-minimize-string-length) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dawncindrela/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/dawncindrela/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dawncindrela/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/dawncindrela/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/dawncindrela/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/dawncindrela/LeetCode/tree/master/2721-sum-of-distances) |
+| [2915-count-of-interesting-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3311-ant-on-the-boundary](https://github.com/dawncindrela/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3427-special-array-ii](https://github.com/dawncindrela/LeetCode/tree/master/3427-special-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/dawncindrela/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
