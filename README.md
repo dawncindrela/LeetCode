@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/dawncindrela/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1031-add-to-array-form-of-integer](https://github.com/dawncindrela/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1039-find-the-town-judge](https://github.com/dawncindrela/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/dawncindrela/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/dawncindrela/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/dawncindrela/LeetCode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1127-last-stone-weight](https://github.com/dawncindrela/LeetCode/tree/master/1127-last-stone-weight) |
@@ -1146,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/dawncindrela/LeetCode/tree/master/0979-di-string-match) |
 | [1009-pancake-sorting](https://github.com/dawncindrela/LeetCode/tree/master/1009-pancake-sorting) |
 | [1033-broken-calculator](https://github.com/dawncindrela/LeetCode/tree/master/1033-broken-calculator) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/dawncindrela/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/dawncindrela/LeetCode/tree/master/1304-longest-happy-string) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dawncindrela/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/dawncindrela/LeetCode/tree/master/1448-maximum-69-number) |
