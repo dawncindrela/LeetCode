@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dawncindrela/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/dawncindrela/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dawncindrela/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/dawncindrela/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/dawncindrela/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/dawncindrela/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Combinatorics
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dawncindrela/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dawncindrela/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dawncindrela/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/dawncindrela/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Graph
 |  |
 | ------- |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/dawncindrela/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dawncindrela/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dawncindrela/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/dawncindrela/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3636-check-balanced-string](https://github.com/dawncindrela/LeetCode/tree/master/3636-check-balanced-string) |
 | [3637-count-number-of-balanced-permutations](https://github.com/dawncindrela/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3811-reverse-degree-of-a-string](https://github.com/dawncindrela/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -1122,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dawncindrela/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/dawncindrela/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dawncindrela/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/dawncindrela/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1241,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dawncindrela/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/dawncindrela/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dawncindrela/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/dawncindrela/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/dawncindrela/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
