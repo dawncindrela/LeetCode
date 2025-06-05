@@ -738,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dawncindrela/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/dawncindrela/LeetCode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/dawncindrela/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/dawncindrela/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dawncindrela/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dawncindrela/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/dawncindrela/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -1463,6 +1464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dawncindrela/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/dawncindrela/LeetCode/tree/master/0684-redundant-connection) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/dawncindrela/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/dawncindrela/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/dawncindrela/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/dawncindrela/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
