@@ -1,22 +1,14 @@
-import java.util.*;
-
 class Solution {
     public String robotWithString(String s) {
         Stack<Character> stack = new Stack<>();
         int[] freq = new int[26];
-        
-        // Count frequency of each character
         for (char ch : s.toCharArray()) {
             freq[ch - 'a']++;
         }
-        
         StringBuilder t = new StringBuilder();
-
         for (char ch : s.toCharArray()) {
             stack.push(ch);
             freq[ch - 'a']--;
-
-            // Check if we can pop the top of the stack
             while (!stack.isEmpty() && stack.peek() <= smallestChar(freq)) {
                 t.append(stack.pop());
             }
@@ -24,7 +16,6 @@ class Solution {
         while (!stack.isEmpty()) {
             t.append(stack.pop());
         }
-
         return t.toString();
     }
     private char smallestChar(int[] freq) {
