@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2619-categorize-box-according-to-criteria](https://github.com/dawncindrela/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2630-alternating-digit-sum](https://github.com/dawncindrela/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dawncindrela/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/dawncindrela/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/dawncindrela/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2748-calculate-delayed-arrival-time](https://github.com/dawncindrela/LeetCode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/dawncindrela/LeetCode/tree/master/2752-sum-multiples) |
@@ -1264,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/dawncindrela/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dawncindrela/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/dawncindrela/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/dawncindrela/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/dawncindrela/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/dawncindrela/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/dawncindrela/LeetCode/tree/master/2756-buy-two-chocolates) |
