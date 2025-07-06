@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/dawncindrela/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1972-rotating-the-box](https://github.com/dawncindrela/LeetCode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dawncindrela/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/dawncindrela/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dawncindrela/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/dawncindrela/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/dawncindrela/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1933-number-of-different-integers-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dawncindrela/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dawncindrela/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/dawncindrela/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dawncindrela/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dawncindrela/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/dawncindrela/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -1443,6 +1445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dawncindrela/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dawncindrela/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dawncindrela/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/dawncindrela/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/dawncindrela/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/dawncindrela/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
