@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/dawncindrela/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/dawncindrela/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/dawncindrela/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/dawncindrela/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/dawncindrela/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -1267,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dawncindrela/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dawncindrela/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dawncindrela/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/dawncindrela/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/dawncindrela/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Brainteaser
 |  |
@@ -1332,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dawncindrela/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/dawncindrela/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/dawncindrela/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/dawncindrela/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Dynamic Programming
 |  |
 | ------- |
