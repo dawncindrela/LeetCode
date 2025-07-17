@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dawncindrela/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-alternating-groups-ii](https://github.com/dawncindrela/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/dawncindrela/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/dawncindrela/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dawncindrela/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/dawncindrela/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/dawncindrela/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1401,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dawncindrela/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dawncindrela/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/dawncindrela/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/dawncindrela/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/dawncindrela/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3618-find-the-original-typed-string-ii](https://github.com/dawncindrela/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dawncindrela/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
