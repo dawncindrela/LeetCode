@@ -827,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/dawncindrela/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dawncindrela/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/dawncindrela/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/dawncindrela/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dawncindrela/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/dawncindrela/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1904-second-largest-digit-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -1021,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dawncindrela/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/dawncindrela/LeetCode/tree/master/1666-make-the-string-great) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dawncindrela/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/dawncindrela/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dawncindrela/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dawncindrela/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/dawncindrela/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -1325,6 +1327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/dawncindrela/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dawncindrela/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dawncindrela/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/dawncindrela/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/dawncindrela/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/dawncindrela/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/dawncindrela/LeetCode/tree/master/2089-maximum-matrix-sum) |
