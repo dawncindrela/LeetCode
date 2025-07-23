@@ -26,7 +26,7 @@ class Solution
                 total += point;
                 if (i > 0) 
                 {
-                    i--; 
+                    i--; // Move back one step to handle consecutive patterns
                 }
             } 
             else 
