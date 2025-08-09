@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/dawncindrela/LeetCode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/dawncindrela/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/dawncindrela/LeetCode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/dawncindrela/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dawncindrela/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0313-super-ugly-number](https://github.com/dawncindrela/LeetCode/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/dawncindrela/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -1225,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/dawncindrela/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/dawncindrela/LeetCode/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dawncindrela/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/dawncindrela/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1466,6 +1468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/dawncindrela/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/dawncindrela/LeetCode/tree/master/0044-wildcard-matching) |
+| [0231-power-of-two](https://github.com/dawncindrela/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dawncindrela/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/dawncindrela/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/dawncindrela/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
