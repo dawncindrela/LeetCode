@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/dawncindrela/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dawncindrela/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dawncindrela/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/dawncindrela/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dawncindrela/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1651-shuffle-string](https://github.com/dawncindrela/LeetCode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/dawncindrela/LeetCode/tree/master/1656-count-good-triplets) |
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dawncindrela/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dawncindrela/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dawncindrela/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1628-count-submatrices-with-all-ones](https://github.com/dawncindrela/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/dawncindrela/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/dawncindrela/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/dawncindrela/LeetCode/tree/master/1972-rotating-the-box) |
@@ -1058,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/dawncindrela/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dawncindrela/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dawncindrela/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/dawncindrela/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1666-make-the-string-great](https://github.com/dawncindrela/LeetCode/tree/master/1666-make-the-string-great) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dawncindrela/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/dawncindrela/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1079,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/dawncindrela/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/dawncindrela/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dawncindrela/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/dawncindrela/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dawncindrela/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/dawncindrela/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/dawncindrela/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1446,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/dawncindrela/LeetCode/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/dawncindrela/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dawncindrela/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/dawncindrela/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dawncindrela/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dawncindrela/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1764-maximum-repeating-substring](https://github.com/dawncindrela/LeetCode/tree/master/1764-maximum-repeating-substring) |
