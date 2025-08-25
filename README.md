@@ -879,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/dawncindrela/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1944-truncate-sentence](https://github.com/dawncindrela/LeetCode/tree/master/1944-truncate-sentence) |
+| [1954-replace-all-digits-with-characters](https://github.com/dawncindrela/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dawncindrela/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/dawncindrela/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dawncindrela/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
