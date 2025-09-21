@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dawncindrela/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/dawncindrela/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dawncindrela/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2023-design-movie-rental-system](https://github.com/dawncindrela/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/dawncindrela/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/dawncindrela/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/dawncindrela/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dawncindrela/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dawncindrela/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/dawncindrela/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/dawncindrela/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/dawncindrela/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dawncindrela/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dawncindrela/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1270,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dawncindrela/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dawncindrela/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/dawncindrela/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/dawncindrela/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2164-two-best-non-overlapping-events](https://github.com/dawncindrela/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dawncindrela/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/dawncindrela/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -1642,6 +1645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/dawncindrela/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dawncindrela/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/dawncindrela/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/dawncindrela/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/dawncindrela/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/dawncindrela/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/dawncindrela/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -1663,6 +1667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/dawncindrela/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/dawncindrela/LeetCode/tree/master/0731-my-calendar-ii) |
+| [2023-design-movie-rental-system](https://github.com/dawncindrela/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/dawncindrela/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/dawncindrela/LeetCode/tree/master/2429-design-a-food-rating-system) |
