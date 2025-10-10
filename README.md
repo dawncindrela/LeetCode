@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/dawncindrela/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dawncindrela/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/dawncindrela/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dawncindrela/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/dawncindrela/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3427-special-array-ii](https://github.com/dawncindrela/LeetCode/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dawncindrela/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2721-sum-of-distances](https://github.com/dawncindrela/LeetCode/tree/master/2721-sum-of-distances) |
 | [2915-count-of-interesting-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3311-ant-on-the-boundary](https://github.com/dawncindrela/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dawncindrela/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/dawncindrela/LeetCode/tree/master/3427-special-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/dawncindrela/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/dawncindrela/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
