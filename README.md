@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dawncindrela/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dawncindrela/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/dawncindrela/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2636-maximum-subsequence-score](https://github.com/dawncindrela/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dawncindrela/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/dawncindrela/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/dawncindrela/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/dawncindrela/LeetCode/tree/master/2571-find-the-pivot-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/dawncindrela/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dawncindrela/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/dawncindrela/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/dawncindrela/LeetCode/tree/master/2721-sum-of-distances) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/dawncindrela/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dawncindrela/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/dawncindrela/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dawncindrela/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dawncindrela/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/dawncindrela/LeetCode/tree/master/2690-house-robber-iv) |
@@ -1526,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/dawncindrela/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dawncindrela/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/dawncindrela/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/dawncindrela/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/2868-continuous-subarrays) |
@@ -1600,6 +1604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/dawncindrela/LeetCode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/dawncindrela/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dawncindrela/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/dawncindrela/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2636-maximum-subsequence-score](https://github.com/dawncindrela/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dawncindrela/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/dawncindrela/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1816,6 +1821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-number-of-recent-calls](https://github.com/dawncindrela/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dawncindrela/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/dawncindrela/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/dawncindrela/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3827-implement-router](https://github.com/dawncindrela/LeetCode/tree/master/3827-implement-router) |
 ## Doubly-Linked List
