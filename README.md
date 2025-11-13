@@ -1083,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/dawncindrela/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/dawncindrela/LeetCode/tree/master/3468-find-the-encrypted-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dawncindrela/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3567-convert-date-to-binary](https://github.com/dawncindrela/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dawncindrela/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/dawncindrela/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -1514,6 +1515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dawncindrela/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dawncindrela/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/dawncindrela/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dawncindrela/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dawncindrela/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/dawncindrela/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/dawncindrela/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1631,6 +1633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dawncindrela/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dawncindrela/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/dawncindrela/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/dawncindrela/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/dawncindrela/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/dawncindrela/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/dawncindrela/LeetCode/tree/master/3647-zero-array-transformation-iii) |
