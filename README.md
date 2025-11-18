@@ -1862,6 +1862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/dawncindrela/LeetCode/tree/master/0175-combine-two-tables) |
 | [1523-capital-gainloss](https://github.com/dawncindrela/LeetCode/tree/master/1523-capital-gainloss) |
 | [1837-daily-leads-and-partners](https://github.com/dawncindrela/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [2024-calculate-special-bonus](https://github.com/dawncindrela/LeetCode/tree/master/2024-calculate-special-bonus) |
