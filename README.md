@@ -1916,6 +1916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/dawncindrela/LeetCode/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/dawncindrela/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/dawncindrela/LeetCode/tree/master/1193-monthly-transactions-i) |
+| [1280-students-and-examinations](https://github.com/dawncindrela/LeetCode/tree/master/1280-students-and-examinations) |
 | [1523-capital-gainloss](https://github.com/dawncindrela/LeetCode/tree/master/1523-capital-gainloss) |
 | [1837-daily-leads-and-partners](https://github.com/dawncindrela/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [2024-calculate-special-bonus](https://github.com/dawncindrela/LeetCode/tree/master/2024-calculate-special-bonus) |
