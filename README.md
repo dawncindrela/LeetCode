@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dawncindrela/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/dawncindrela/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dawncindrela/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dawncindrela/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dawncindrela/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/dawncindrela/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/dawncindrela/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dawncindrela/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/dawncindrela/LeetCode/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dawncindrela/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dawncindrela/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/dawncindrela/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/dawncindrela/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/dawncindrela/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1606,6 +1608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/dawncindrela/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dawncindrela/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dawncindrela/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dawncindrela/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/dawncindrela/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dawncindrela/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/dawncindrela/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1769,6 +1772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/dawncindrela/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/dawncindrela/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/dawncindrela/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dawncindrela/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/dawncindrela/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/dawncindrela/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/dawncindrela/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1899,6 +1903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/dawncindrela/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/dawncindrela/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dawncindrela/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/dawncindrela/LeetCode/tree/master/3827-implement-router) |
 ## Doubly-Linked List
 |  |
@@ -1994,6 +1999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/dawncindrela/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/dawncindrela/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2868-continuous-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dawncindrela/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Binary Search Tree
 |  |
 | ------- |
