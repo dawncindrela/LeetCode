@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/dawncindrela/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/dawncindrela/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/dawncindrela/LeetCode/tree/master/2050-count-good-numbers) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/dawncindrela/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2155-find-missing-observations](https://github.com/dawncindrela/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dawncindrela/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dawncindrela/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1093,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dawncindrela/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/dawncindrela/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/dawncindrela/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/dawncindrela/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/dawncindrela/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/dawncindrela/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/dawncindrela/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -1772,6 +1774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/dawncindrela/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/dawncindrela/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dawncindrela/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/dawncindrela/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/dawncindrela/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/dawncindrela/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/dawncindrela/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
