@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/dawncindrela/LeetCode/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dawncindrela/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/dawncindrela/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/dawncindrela/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0978-valid-mountain-array](https://github.com/dawncindrela/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/dawncindrela/LeetCode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/dawncindrela/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dawncindrela/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/dawncindrela/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/dawncindrela/LeetCode/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/dawncindrela/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/dawncindrela/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dawncindrela/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/dawncindrela/LeetCode/tree/master/1039-find-the-town-judge) |
