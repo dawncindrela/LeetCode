@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/dawncindrela/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dawncindrela/LeetCode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/dawncindrela/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dawncindrela/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/dawncindrela/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dawncindrela/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -1272,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dawncindrela/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/dawncindrela/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dawncindrela/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/dawncindrela/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dawncindrela/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1337,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/dawncindrela/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/dawncindrela/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dawncindrela/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/dawncindrela/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dawncindrela/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -1368,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/dawncindrela/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/dawncindrela/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dawncindrela/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/dawncindrela/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1805,6 +1809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/dawncindrela/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/dawncindrela/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/dawncindrela/LeetCode/tree/master/0062-unique-paths) |
+| [0085-maximal-rectangle](https://github.com/dawncindrela/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/dawncindrela/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dawncindrela/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/dawncindrela/LeetCode/tree/master/0120-triangle) |
