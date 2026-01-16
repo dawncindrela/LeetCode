@@ -12,24 +12,28 @@ class Solution
         vList.add(n);
         Set<Integer> stt = new HashSet<>();
         long ans = 0;
-        for (int i = 0; i < hList.size(); i++) {
-            for (int j = i + 1; j < hList.size(); j++) {
+        for (int i = 0; i < hList.size(); i++) 
+        {
+            for (int j = i + 1; j < hList.size(); j++) 
+            {
                 stt.add(Math.abs(hList.get(j) - hList.get(i)));
             }
         }
-        for (int i = 0; i < vList.size(); i++) {
-            for (int j = i + 1; j < vList.size(); j++) {
+        for (int i = 0; i < vList.size(); i++) 
+        {
+            for (int j = i + 1; j < vList.size(); j++) 
+            {
                 int val = Math.abs(vList.get(j) - vList.get(i));
-                if (stt.contains(val)) {
+                if (stt.contains(val)) 
+                {
                     ans = Math.max(ans, val);
                 }
             }
         }
-
-        if (ans == 0) {
+        if (ans == 0) 
+        {
             return -1;
         }
-
         long MOD = 1_000_000_007;
         return (int) ((ans * ans) % MOD);
     }
