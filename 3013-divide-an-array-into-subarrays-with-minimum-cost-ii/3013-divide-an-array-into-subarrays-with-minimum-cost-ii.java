@@ -1,96 +1,72 @@
-import java.util.*;
-
 class Solution {
-    TreeMap<Integer, Integer> small = new TreeMap<>();
-    TreeMap<Integer, Integer> large = new TreeMap<>();
-
+    PriorityQueue<Integer> small = new PriorityQueue<>(Collections.reverseOrder());
+    PriorityQueue<Integer> large = new PriorityQueue<>();
+    Map<Integer, Integer> delayed = new HashMap<>();
     long sumSmall = 0;
     int cntSmall = 0;
-    int cntLarge = 0;
     int need;
-
     public long minimumCost(int[] nums, int k, int dist) {
         int n = nums.length;
         need = k - 2;
-
-        // initialize window for i1 = 1 → indices [2 .. dist+1]
         for (int i = 2; i <= dist + 1; i++) {
             add(nums[i]);
         }
-
         long ans = Long.MAX_VALUE;
-
-        for (int i1 = 1; i1 <= n - 1; i1++) {
-
+        for (int i1 = 1; i1 < n; i1++) {
             if (need == 0) {
                 ans = Math.min(ans, nums[0] + nums[i1]);
             } else if (cntSmall == need) {
                 ans = Math.min(ans, nums[0] + nums[i1] + sumSmall);
             }
-
-            // slide window
-            if (i1 + 1 <= n - 1) {
-                remove(nums[i1 + 1]);
-            }
-            if (i1 + dist + 1 <= n - 1) {
-                add(nums[i1 + dist + 1]);
-            }
+            if (i1 + 1 < n) remove(nums[i1 + 1]);
+            if (i1 + dist + 1 < n) add(nums[i1 + dist + 1]);
         }
-
         return ans;
     }
-
     private void add(int x) {
         if (cntSmall < need) {
-            insertSmall(x);
-        } else if (need > 0 && x < small.lastKey()) {
-            int move = small.lastKey();
-            removeSmall(move);
-            insertLarge(move);
-            insertSmall(x);
+            small.offer(x);
+            sumSmall += x;
+            cntSmall++;
+        } else if (need > 0 && !small.isEmpty() && x < small.peek()) {
+            int moved = small.poll();
+            sumSmall -= moved;
+            large.offer(moved);
+            small.offer(x);
+            sumSmall += x;
         } else {
-            insertLarge(x);
+            large.offer(x);
         }
+        balance();
     }
-
     private void remove(int x) {
-        if (small.containsKey(x)) {
-            removeSmall(x);
-            if (cntLarge > 0) {
-                int move = large.firstKey();
-                removeLarge(move);
-                insertSmall(move);
-            }
-        } else {
-            removeLarge(x);
+        delayed.put(x, delayed.getOrDefault(x, 0) + 1);
+        if (!small.isEmpty() && x <= small.peek()) {
+            sumSmall -= x;
+            cntSmall--;
         }
+        prune(small);
+        prune(large);
+        balance();
     }
-
-    // ---------- helpers ----------
-
-    private void insertSmall(int x) {
-        small.put(x, small.getOrDefault(x, 0) + 1);
-        sumSmall += x;
-        cntSmall++;
+    private void balance() {
+        while (cntSmall < need && !large.isEmpty()) {
+            prune(large);
+            int x = large.poll();
+            small.offer(x);
+            sumSmall += x;
+            cntSmall++;
+        }
+        prune(small);
     }
-
-    private void removeSmall(int x) {
-        int c = small.get(x);
-        if (c == 1) small.remove(x);
-        else small.put(x, c - 1);
-        sumSmall -= x;
-        cntSmall--;
-    }
-
-    private void insertLarge(int x) {
-        large.put(x, large.getOrDefault(x, 0) + 1);
-        cntLarge++;
-    }
-
-    private void removeLarge(int x) {
-        int c = large.get(x);
-        if (c == 1) large.remove(x);
-        else large.put(x, c - 1);
-        cntLarge--;
+    private void prune(PriorityQueue<Integer> pq) {
+        while (!pq.isEmpty()) {
+            int x = pq.peek();
+            if (delayed.containsKey(x)) {
+                delayed.put(x, delayed.get(x) - 1);
+                if (delayed.get(x) == 0) delayed.remove(x);
+                pq.poll();
+            } else break;
+        }
     }
 }
