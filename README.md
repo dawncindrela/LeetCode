@@ -1670,6 +1670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/dawncindrela/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/dawncindrela/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/dawncindrela/LeetCode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/dawncindrela/LeetCode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dawncindrela/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0756-pyramid-transition-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/dawncindrela/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -2184,6 +2185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/dawncindrela/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/dawncindrela/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/dawncindrela/LeetCode/tree/master/0077-combinations) |
+| [0401-binary-watch](https://github.com/dawncindrela/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/dawncindrela/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/dawncindrela/LeetCode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0756-pyramid-transition-matrix) |
