@@ -637,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dawncindrela/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dawncindrela/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/dawncindrela/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/dawncindrela/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/dawncindrela/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/dawncindrela/LeetCode/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/dawncindrela/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1116,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dawncindrela/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/dawncindrela/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/dawncindrela/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/dawncindrela/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/dawncindrela/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/dawncindrela/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/dawncindrela/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1540,6 +1542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/dawncindrela/LeetCode/tree/master/0127-word-ladder) |
 | [0407-trapping-rain-water-ii](https://github.com/dawncindrela/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dawncindrela/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dawncindrela/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
