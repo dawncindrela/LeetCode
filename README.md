@@ -1130,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/dawncindrela/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/dawncindrela/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/dawncindrela/LeetCode/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/dawncindrela/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/dawncindrela/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/dawncindrela/LeetCode/tree/master/0768-partition-labels) |
@@ -1298,6 +1299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/dawncindrela/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/dawncindrela/LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/dawncindrela/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/dawncindrela/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/dawncindrela/LeetCode/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/dawncindrela/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/dawncindrela/LeetCode/tree/master/0868-push-dominoes) |
