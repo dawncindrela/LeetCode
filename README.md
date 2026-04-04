@@ -1118,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dawncindrela/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dawncindrela/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/dawncindrela/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/dawncindrela/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dawncindrela/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/dawncindrela/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/dawncindrela/LeetCode/tree/master/2155-find-missing-observations) |
@@ -1266,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/dawncindrela/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dawncindrela/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dawncindrela/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/dawncindrela/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dawncindrela/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/dawncindrela/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/dawncindrela/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
