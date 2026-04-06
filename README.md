@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/dawncindrela/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0841-shortest-distance-to-a-character](https://github.com/dawncindrela/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0859-design-circular-deque](https://github.com/dawncindrela/LeetCode/tree/master/0859-design-circular-deque) |
+| [0874-walking-robot-simulation](https://github.com/dawncindrela/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/dawncindrela/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dawncindrela/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/dawncindrela/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/dawncindrela/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dawncindrela/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/dawncindrela/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0889-buddy-strings](https://github.com/dawncindrela/LeetCode/tree/master/0889-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/dawncindrela/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dawncindrela/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1107,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/dawncindrela/LeetCode/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/dawncindrela/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0874-walking-robot-simulation](https://github.com/dawncindrela/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/dawncindrela/LeetCode/tree/master/0898-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/dawncindrela/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/dawncindrela/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
