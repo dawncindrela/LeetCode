@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/dawncindrela/LeetCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/dawncindrela/LeetCode/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/dawncindrela/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/dawncindrela/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/dawncindrela/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/dawncindrela/LeetCode/tree/master/0067-add-binary) |
@@ -2157,6 +2158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/dawncindrela/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/dawncindrela/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/dawncindrela/LeetCode/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/dawncindrela/LeetCode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/dawncindrela/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dawncindrela/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/dawncindrela/LeetCode/tree/master/0326-power-of-three) |
