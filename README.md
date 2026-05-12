@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dawncindrela/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1651-shuffle-string](https://github.com/dawncindrela/LeetCode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/dawncindrela/LeetCode/tree/master/1656-count-good-triplets) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/dawncindrela/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dawncindrela/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/dawncindrela/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -1002,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/dawncindrela/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/dawncindrela/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dawncindrela/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/dawncindrela/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/dawncindrela/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dawncindrela/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dawncindrela/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -2044,6 +2046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dawncindrela/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/dawncindrela/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dawncindrela/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/dawncindrela/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dawncindrela/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/dawncindrela/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/dawncindrela/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
