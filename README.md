@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/dawncindrela/LeetCode/tree/master/1086-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dawncindrela/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dawncindrela/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/dawncindrela/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/dawncindrela/LeetCode/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dawncindrela/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dawncindrela/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
