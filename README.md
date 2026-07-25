@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dawncindrela/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dawncindrela/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/dawncindrela/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/dawncindrela/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/dawncindrela/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dawncindrela/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dawncindrela/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1161,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dawncindrela/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3531-count-covered-buildings](https://github.com/dawncindrela/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dawncindrela/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/dawncindrela/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/dawncindrela/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/dawncindrela/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/dawncindrela/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
