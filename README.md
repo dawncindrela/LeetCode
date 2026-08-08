@@ -1540,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/dawncindrela/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/dawncindrela/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dawncindrela/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dawncindrela/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/dawncindrela/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dawncindrela/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dawncindrela/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -1641,6 +1642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/dawncindrela/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/dawncindrela/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3195-separate-black-and-white-balls](https://github.com/dawncindrela/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dawncindrela/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dawncindrela/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dawncindrela/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dawncindrela/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -2317,6 +2319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dawncindrela/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/dawncindrela/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dawncindrela/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dawncindrela/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dawncindrela/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dawncindrela/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dawncindrela/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -2430,6 +2433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dawncindrela/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/dawncindrela/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/dawncindrela/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dawncindrela/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dawncindrela/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dawncindrela/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/dawncindrela/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
