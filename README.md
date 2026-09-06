@@ -1408,6 +1408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dawncindrela/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/dawncindrela/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/dawncindrela/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/dawncindrela/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/dawncindrela/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/dawncindrela/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/dawncindrela/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -2400,6 +2401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dawncindrela/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/dawncindrela/LeetCode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/dawncindrela/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/dawncindrela/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/dawncindrela/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dawncindrela/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/dawncindrela/LeetCode/tree/master/0120-triangle) |
