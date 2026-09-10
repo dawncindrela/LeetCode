@@ -1877,6 +1877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dawncindrela/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/dawncindrela/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/dawncindrela/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dawncindrela/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/dawncindrela/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/dawncindrela/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/dawncindrela/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1926,6 +1927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/dawncindrela/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2201-valid-arrangement-of-pairs](https://github.com/dawncindrela/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/dawncindrela/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dawncindrela/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/dawncindrela/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/dawncindrela/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dawncindrela/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -2020,6 +2022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dawncindrela/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/dawncindrela/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/dawncindrela/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dawncindrela/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/dawncindrela/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/dawncindrela/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dawncindrela/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
