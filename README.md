@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/dawncindrela/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dawncindrela/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/dawncindrela/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dawncindrela/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/dawncindrela/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3427-special-array-ii](https://github.com/dawncindrela/LeetCode/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dawncindrela/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -1217,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dawncindrela/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/dawncindrela/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dawncindrela/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dawncindrela/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3430-count-days-without-meetings](https://github.com/dawncindrela/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/dawncindrela/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dawncindrela/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1306,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dawncindrela/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dawncindrela/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dawncindrela/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dawncindrela/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3427-special-array-ii](https://github.com/dawncindrela/LeetCode/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dawncindrela/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/dawncindrela/LeetCode/tree/master/3453-separate-squares-i) |
@@ -2502,6 +2505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dawncindrela/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/dawncindrela/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dawncindrela/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dawncindrela/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/dawncindrela/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dawncindrela/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/dawncindrela/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
