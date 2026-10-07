@@ -1451,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/dawncindrela/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dawncindrela/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/dawncindrela/LeetCode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/dawncindrela/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dawncindrela/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/dawncindrela/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/dawncindrela/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -2003,6 +2004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/dawncindrela/LeetCode/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/dawncindrela/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/dawncindrela/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dawncindrela/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dawncindrela/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -2815,6 +2817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/dawncindrela/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/dawncindrela/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/dawncindrela/LeetCode/tree/master/0077-combinations) |
+| [0301-remove-invalid-parentheses](https://github.com/dawncindrela/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/dawncindrela/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/dawncindrela/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/dawncindrela/LeetCode/tree/master/0679-24-game) |
