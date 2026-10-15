@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/dawncindrela/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dawncindrela/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2906-construct-product-matrix](https://github.com/dawncindrela/LeetCode/tree/master/2906-construct-product-matrix) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dawncindrela/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dawncindrela/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/dawncindrela/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -964,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dawncindrela/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dawncindrela/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dawncindrela/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/dawncindrela/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dawncindrela/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dawncindrela/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -2724,6 +2726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/dawncindrela/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1622-fancy-sequence](https://github.com/dawncindrela/LeetCode/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dawncindrela/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3161-block-placement-queries](https://github.com/dawncindrela/LeetCode/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/dawncindrela/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/dawncindrela/LeetCode/tree/master/3454-separate-squares-ii) |
@@ -2916,6 +2919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/dawncindrela/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dawncindrela/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3161-block-placement-queries](https://github.com/dawncindrela/LeetCode/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/dawncindrela/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Topological Sort
