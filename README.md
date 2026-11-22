@@ -1621,6 +1621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/dawncindrela/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dawncindrela/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/dawncindrela/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/dawncindrela/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/dawncindrela/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/dawncindrela/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/dawncindrela/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
