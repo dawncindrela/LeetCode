@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dawncindrela/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dawncindrela/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dawncindrela/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/dawncindrela/LeetCode/tree/master/3360-stone-removal-game) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/dawncindrela/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/dawncindrela/LeetCode/tree/master/3371-harshad-number) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/dawncindrela/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -1474,6 +1475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/dawncindrela/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dawncindrela/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/dawncindrela/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/dawncindrela/LeetCode/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/dawncindrela/LeetCode/tree/master/3379-transformed-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dawncindrela/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3433-count-mentions-per-user](https://github.com/dawncindrela/LeetCode/tree/master/3433-count-mentions-per-user) |
